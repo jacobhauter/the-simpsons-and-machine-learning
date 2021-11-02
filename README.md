@@ -1,5 +1,7 @@
 # The Simpsons and Machine Learning: What makes an Episode Great?
 
+Check out my [Medium article](https://medium.com/@jacobhauter/the-simpsons-and-machine-learning-what-makes-an-episode-great-f6dd84360bad) on this!
+
 ## PROBLEM:
 - The Simpsons has had a decline in quality over the years
 - A quantitative solution is required to discover what makes a quality epsiode, and how these kinds of episodes can be replicated
@@ -12,4 +14,4 @@
 - simpsons_characters.csv
 - simpsons_episodes.csv
 - simpsons_locations.csv
-- simpsons_script_lines.csv 
+
